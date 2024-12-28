@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TheEcomWay/static/css/main.94497a33.css",
-    "main.js": "/TheEcomWay/static/js/main.a8c2e99a.js",
+    "main.css": "/TheEcomWay/static/css/main.4d49086e.css",
+    "main.js": "/TheEcomWay/static/js/main.5595e7b4.js",
     "static/js/239.595b6060.chunk.js": "/TheEcomWay/static/js/239.595b6060.chunk.js",
     "static/js/213.2e750b96.chunk.js": "/TheEcomWay/static/js/213.2e750b96.chunk.js",
     "static/js/732.6874900a.chunk.js": "/TheEcomWay/static/js/732.6874900a.chunk.js",
@@ -12,14 +12,14 @@
     "static/media/Meesho-Profit-Calculator.png": "/TheEcomWay/static/media/Meesho-Profit-Calculator.c663ad868d7b659d064a.png",
     "static/media/Meesho-Label-Cropper.png": "/TheEcomWay/static/media/Meesho-Label-Cropper.0040a07e34654d658799.png",
     "index.html": "/TheEcomWay/index.html",
-    "main.94497a33.css.map": "/TheEcomWay/static/css/main.94497a33.css.map",
-    "main.a8c2e99a.js.map": "/TheEcomWay/static/js/main.a8c2e99a.js.map",
+    "main.4d49086e.css.map": "/TheEcomWay/static/css/main.4d49086e.css.map",
+    "main.5595e7b4.js.map": "/TheEcomWay/static/js/main.5595e7b4.js.map",
     "239.595b6060.chunk.js.map": "/TheEcomWay/static/js/239.595b6060.chunk.js.map",
     "213.2e750b96.chunk.js.map": "/TheEcomWay/static/js/213.2e750b96.chunk.js.map",
     "732.6874900a.chunk.js.map": "/TheEcomWay/static/js/732.6874900a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94497a33.css",
-    "static/js/main.a8c2e99a.js"
+    "static/css/main.4d49086e.css",
+    "static/js/main.5595e7b4.js"
   ]
 }
