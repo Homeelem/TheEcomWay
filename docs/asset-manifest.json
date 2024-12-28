@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TheEcomWay/static/css/main.94497a33.css",
-    "main.js": "/TheEcomWay/static/js/main.23a9d222.js",
+    "main.js": "/TheEcomWay/static/js/main.9e60e20b.js",
     "static/js/239.595b6060.chunk.js": "/TheEcomWay/static/js/239.595b6060.chunk.js",
     "static/js/213.2e750b96.chunk.js": "/TheEcomWay/static/js/213.2e750b96.chunk.js",
     "static/js/732.6874900a.chunk.js": "/TheEcomWay/static/js/732.6874900a.chunk.js",
@@ -13,13 +13,13 @@
     "static/media/Meesho-Label-Cropper.png": "/TheEcomWay/static/media/Meesho-Label-Cropper.0040a07e34654d658799.png",
     "index.html": "/TheEcomWay/index.html",
     "main.94497a33.css.map": "/TheEcomWay/static/css/main.94497a33.css.map",
-    "main.23a9d222.js.map": "/TheEcomWay/static/js/main.23a9d222.js.map",
+    "main.9e60e20b.js.map": "/TheEcomWay/static/js/main.9e60e20b.js.map",
     "239.595b6060.chunk.js.map": "/TheEcomWay/static/js/239.595b6060.chunk.js.map",
     "213.2e750b96.chunk.js.map": "/TheEcomWay/static/js/213.2e750b96.chunk.js.map",
     "732.6874900a.chunk.js.map": "/TheEcomWay/static/js/732.6874900a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94497a33.css",
-    "static/js/main.23a9d222.js"
+    "static/js/main.9e60e20b.js"
   ]
 }
