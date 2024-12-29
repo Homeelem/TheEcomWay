@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/TheEcomWay/static/css/main.4d49086e.css",
-    "main.js": "/TheEcomWay/static/js/main.4c85e1cb.js",
-    "static/js/239.595b6060.chunk.js": "/TheEcomWay/static/js/239.595b6060.chunk.js",
-    "static/js/213.2e750b96.chunk.js": "/TheEcomWay/static/js/213.2e750b96.chunk.js",
-    "static/js/732.6874900a.chunk.js": "/TheEcomWay/static/js/732.6874900a.chunk.js",
-    "static/media/white-logo.png": "/TheEcomWay/static/media/white-logo.2ca3ea9e0bbedb7ef28c.png",
-    "static/media/logo.png": "/TheEcomWay/static/media/logo.8fcb7512dd243e8f02db.png",
-    "static/media/Flipkart-Label-Splitter.png": "/TheEcomWay/static/media/Flipkart-Label-Splitter.456bf4e1176bf8f99d44.png",
-    "static/media/Amazon-Label-Maker.png": "/TheEcomWay/static/media/Amazon-Label-Maker.f76347ddf664226c7799.png",
-    "static/media/Meesho-Profit-Calculator.png": "/TheEcomWay/static/media/Meesho-Profit-Calculator.c663ad868d7b659d064a.png",
-    "static/media/Meesho-Label-Cropper.png": "/TheEcomWay/static/media/Meesho-Label-Cropper.0040a07e34654d658799.png",
-    "index.html": "/TheEcomWay/index.html",
-    "main.4d49086e.css.map": "/TheEcomWay/static/css/main.4d49086e.css.map",
-    "main.4c85e1cb.js.map": "/TheEcomWay/static/js/main.4c85e1cb.js.map",
-    "239.595b6060.chunk.js.map": "/TheEcomWay/static/js/239.595b6060.chunk.js.map",
-    "213.2e750b96.chunk.js.map": "/TheEcomWay/static/js/213.2e750b96.chunk.js.map",
-    "732.6874900a.chunk.js.map": "/TheEcomWay/static/js/732.6874900a.chunk.js.map"
+    "main.css": "/www.theecomway.com/static/css/main.4d49086e.css",
+    "main.js": "/www.theecomway.com/static/js/main.4c112c14.js",
+    "static/js/239.1dc54cfb.chunk.js": "/www.theecomway.com/static/js/239.1dc54cfb.chunk.js",
+    "static/js/213.e61297c6.chunk.js": "/www.theecomway.com/static/js/213.e61297c6.chunk.js",
+    "static/js/732.73d65ca9.chunk.js": "/www.theecomway.com/static/js/732.73d65ca9.chunk.js",
+    "static/media/white-logo.png": "/www.theecomway.com/static/media/white-logo.2ca3ea9e0bbedb7ef28c.png",
+    "static/media/logo.png": "/www.theecomway.com/static/media/logo.8fcb7512dd243e8f02db.png",
+    "static/media/Flipkart-Label-Splitter.png": "/www.theecomway.com/static/media/Flipkart-Label-Splitter.456bf4e1176bf8f99d44.png",
+    "static/media/Amazon-Label-Maker.png": "/www.theecomway.com/static/media/Amazon-Label-Maker.f76347ddf664226c7799.png",
+    "static/media/Meesho-Profit-Calculator.png": "/www.theecomway.com/static/media/Meesho-Profit-Calculator.c663ad868d7b659d064a.png",
+    "static/media/Meesho-Label-Cropper.png": "/www.theecomway.com/static/media/Meesho-Label-Cropper.0040a07e34654d658799.png",
+    "index.html": "/www.theecomway.com/index.html",
+    "main.4d49086e.css.map": "/www.theecomway.com/static/css/main.4d49086e.css.map",
+    "main.4c112c14.js.map": "/www.theecomway.com/static/js/main.4c112c14.js.map",
+    "239.1dc54cfb.chunk.js.map": "/www.theecomway.com/static/js/239.1dc54cfb.chunk.js.map",
+    "213.e61297c6.chunk.js.map": "/www.theecomway.com/static/js/213.e61297c6.chunk.js.map",
+    "732.73d65ca9.chunk.js.map": "/www.theecomway.com/static/js/732.73d65ca9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d49086e.css",
-    "static/js/main.4c85e1cb.js"
+    "static/js/main.4c112c14.js"
   ]
 }
