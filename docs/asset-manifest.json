@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.9194285f.css",
-    "main.js": "/static/js/main.e00f9c23.js",
+    "main.js": "/static/js/main.e2ee6df5.js",
     "static/js/239.1dc54cfb.chunk.js": "/static/js/239.1dc54cfb.chunk.js",
     "static/js/213.e61297c6.chunk.js": "/static/js/213.e61297c6.chunk.js",
     "static/js/732.73d65ca9.chunk.js": "/static/js/732.73d65ca9.chunk.js",
     "static/media/white-logo.png": "/static/media/white-logo.2ca3ea9e0bbedb7ef28c.png",
     "static/media/logo.png": "/static/media/logo.8fcb7512dd243e8f02db.png",
+    "static/media/Amazon-profit-calculator.png": "/static/media/Amazon-profit-calculator.e980b95f0a4244250825.png",
     "static/media/Flipkart-Label-Splitter.png": "/static/media/Flipkart-Label-Splitter.456bf4e1176bf8f99d44.png",
     "static/media/Amazon-Label-Maker.png": "/static/media/Amazon-Label-Maker.f76347ddf664226c7799.png",
     "static/media/Meesho-Profit-Calculator.png": "/static/media/Meesho-Profit-Calculator.c663ad868d7b659d064a.png",
     "static/media/Meesho-Label-Cropper.png": "/static/media/Meesho-Label-Cropper.0040a07e34654d658799.png",
     "index.html": "/index.html",
     "main.9194285f.css.map": "/static/css/main.9194285f.css.map",
-    "main.e00f9c23.js.map": "/static/js/main.e00f9c23.js.map",
+    "main.e2ee6df5.js.map": "/static/js/main.e2ee6df5.js.map",
     "239.1dc54cfb.chunk.js.map": "/static/js/239.1dc54cfb.chunk.js.map",
     "213.e61297c6.chunk.js.map": "/static/js/213.e61297c6.chunk.js.map",
     "732.73d65ca9.chunk.js.map": "/static/js/732.73d65ca9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9194285f.css",
-    "static/js/main.e00f9c23.js"
+    "static/js/main.e2ee6df5.js"
   ]
 }
