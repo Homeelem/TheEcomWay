@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9194285f.css",
-    "main.js": "/static/js/main.e2ee6df5.js",
+    "main.js": "/static/js/main.a4cef92d.js",
     "static/js/239.1dc54cfb.chunk.js": "/static/js/239.1dc54cfb.chunk.js",
     "static/js/213.e61297c6.chunk.js": "/static/js/213.e61297c6.chunk.js",
     "static/js/732.73d65ca9.chunk.js": "/static/js/732.73d65ca9.chunk.js",
@@ -14,13 +14,13 @@
     "static/media/Meesho-Label-Cropper.png": "/static/media/Meesho-Label-Cropper.0040a07e34654d658799.png",
     "index.html": "/index.html",
     "main.9194285f.css.map": "/static/css/main.9194285f.css.map",
-    "main.e2ee6df5.js.map": "/static/js/main.e2ee6df5.js.map",
+    "main.a4cef92d.js.map": "/static/js/main.a4cef92d.js.map",
     "239.1dc54cfb.chunk.js.map": "/static/js/239.1dc54cfb.chunk.js.map",
     "213.e61297c6.chunk.js.map": "/static/js/213.e61297c6.chunk.js.map",
     "732.73d65ca9.chunk.js.map": "/static/js/732.73d65ca9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9194285f.css",
-    "static/js/main.e2ee6df5.js"
+    "static/js/main.a4cef92d.js"
   ]
 }
