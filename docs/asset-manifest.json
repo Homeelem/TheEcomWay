@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9194285f.css",
-    "main.js": "/static/js/main.36152b03.js",
-    "static/js/239.1dc54cfb.chunk.js": "/static/js/239.1dc54cfb.chunk.js",
-    "static/js/213.e61297c6.chunk.js": "/static/js/213.e61297c6.chunk.js",
-    "static/js/732.73d65ca9.chunk.js": "/static/js/732.73d65ca9.chunk.js",
+    "main.js": "/static/js/main.5f43fd8a.js",
+    "main.css": "/static/css/main.e1ebce98.css",
+    "static/js/361.9f9a59d7.chunk.js": "/static/js/361.9f9a59d7.chunk.js",
+    "static/js/359.909b6b56.chunk.js": "/static/js/359.909b6b56.chunk.js",
+    "static/js/767.107dc5a8.chunk.js": "/static/js/767.107dc5a8.chunk.js",
     "static/media/white-logo.png": "/static/media/white-logo.2ca3ea9e0bbedb7ef28c.png",
     "static/media/logo.png": "/static/media/logo.8fcb7512dd243e8f02db.png",
     "static/media/Amazon-profit-calculator.png": "/static/media/Amazon-profit-calculator.e980b95f0a4244250825.png",
@@ -13,14 +13,10 @@
     "static/media/Meesho-Profit-Calculator.png": "/static/media/Meesho-Profit-Calculator.c663ad868d7b659d064a.png",
     "static/media/Meesho-Label-Cropper.png": "/static/media/Meesho-Label-Cropper.0040a07e34654d658799.png",
     "index.html": "/index.html",
-    "main.9194285f.css.map": "/static/css/main.9194285f.css.map",
-    "main.36152b03.js.map": "/static/js/main.36152b03.js.map",
-    "239.1dc54cfb.chunk.js.map": "/static/js/239.1dc54cfb.chunk.js.map",
-    "213.e61297c6.chunk.js.map": "/static/js/213.e61297c6.chunk.js.map",
-    "732.73d65ca9.chunk.js.map": "/static/js/732.73d65ca9.chunk.js.map"
+    "main.e1ebce98.css.map": "/static/css/main.e1ebce98.css.map"
   },
   "entrypoints": [
-    "static/css/main.9194285f.css",
-    "static/js/main.36152b03.js"
+    "static/js/main.5f43fd8a.js",
+    "static/css/main.e1ebce98.css"
   ]
 }
