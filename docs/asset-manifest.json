@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.8fded021.js",
+    "main.js": "/static/js/main.826b646a.js",
     "main.css": "/static/css/main.e1ebce98.css",
     "static/js/361.9f9a59d7.chunk.js": "/static/js/361.9f9a59d7.chunk.js",
     "static/js/359.909b6b56.chunk.js": "/static/js/359.909b6b56.chunk.js",
     "static/js/767.107dc5a8.chunk.js": "/static/js/767.107dc5a8.chunk.js",
+    "static/media/Amazon-label-crop-demo.png": "/static/media/Amazon-label-crop-demo.eb7d76b03999037b6930.png",
     "static/media/white-logo.png": "/static/media/white-logo.2ca3ea9e0bbedb7ef28c.png",
     "static/media/logo.png": "/static/media/logo.8fcb7512dd243e8f02db.png",
     "static/media/Flipkart-Label-Splitter.png": "/static/media/Flipkart-Label-Splitter.32dccd5529b530fc7b8b.png",
@@ -16,7 +17,7 @@
     "main.e1ebce98.css.map": "/static/css/main.e1ebce98.css.map"
   },
   "entrypoints": [
-    "static/js/main.8fded021.js",
+    "static/js/main.826b646a.js",
     "static/css/main.e1ebce98.css"
   ]
 }
