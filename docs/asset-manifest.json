@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.f0fc4d23.js",
-    "main.css": "/static/css/main.d3aaafac.css",
+    "main.js": "/static/js/main.d2cbef4c.js",
+    "main.css": "/static/css/main.f86cfcd1.css",
     "static/media/Amazon-label-crop-demo.png": "/static/media/Amazon-label-crop-demo.eb7d76b03999037b6930.png",
     "static/media/white-logo.png": "/static/media/white-logo.2ca3ea9e0bbedb7ef28c.png",
     "static/media/logo.png": "/static/media/logo.8fcb7512dd243e8f02db.png",
@@ -13,10 +13,10 @@
     "static/media/Meesho-Label-Cropper.png": "/static/media/Meesho-Label-Cropper.409b5e6fdbfd4208c7ea.png",
     "static/media/pdf-merger.png": "/static/media/pdf-merger.ae18f6bc39181458dac4.png",
     "index.html": "/index.html",
-    "main.d3aaafac.css.map": "/static/css/main.d3aaafac.css.map"
+    "main.f86cfcd1.css.map": "/static/css/main.f86cfcd1.css.map"
   },
   "entrypoints": [
-    "static/js/main.f0fc4d23.js",
-    "static/css/main.d3aaafac.css"
+    "static/js/main.d2cbef4c.js",
+    "static/css/main.f86cfcd1.css"
   ]
 }
