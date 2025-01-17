@@ -357,6 +357,7 @@ iframe {
   width: 20vw;
   max-width: 200px;
   margin: 10px;
+  cursor: pointer;
 }
 
 .marketplace-img:hover{
@@ -371,4 +372,4 @@ iframe {
   }
 }
 
-/*# sourceMappingURL=main.f86cfcd1.css.map*/
+/*# sourceMappingURL=main.363bd600.css.map*/
