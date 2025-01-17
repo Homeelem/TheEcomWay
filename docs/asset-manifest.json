@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.5c821def.js",
+    "main.js": "/static/js/main.85805814.js",
     "main.css": "/static/css/main.363bd600.css",
     "static/media/Amazon-label-crop-demo.png": "/static/media/Amazon-label-crop-demo.eb7d76b03999037b6930.png",
     "static/media/white-logo.png": "/static/media/white-logo.2ca3ea9e0bbedb7ef28c.png",
@@ -16,7 +16,7 @@
     "main.363bd600.css.map": "/static/css/main.363bd600.css.map"
   },
   "entrypoints": [
-    "static/js/main.5c821def.js",
+    "static/js/main.85805814.js",
     "static/css/main.363bd600.css"
   ]
 }
