@@ -6,6 +6,11 @@ body {
   justify-content: center;
   align-items: center;
   background-color: white;
+    background-image: url(/static/media/background-cart.4e0004b5fa0b9cf56c91.png);
+    background-repeat: repeat; /* Options: no-repeat, repeat, repeat-x, repeat-y */
+    background-size: contain;      /* Options: cover, contain, or specific dimensions */
+    background-position: center; /* Options: center, top, bottom, left, right */
+    background-attachment: fixed; /* Makes the background stay fixed during scroll */
 }
 
 code {
@@ -368,8 +373,8 @@ iframe {
 @media screen and (max-width: 768px) {
   .marketplace-img {
       flex-direction: column;
-      width: 30vw;
+      width: 20vw;
   }
 }
 
-/*# sourceMappingURL=main.363bd600.css.map*/
+/*# sourceMappingURL=main.604f748e.css.map*/
