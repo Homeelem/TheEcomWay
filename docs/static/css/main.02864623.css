@@ -57,31 +57,6 @@ code {
   }
 }
 
-.tool-bar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.tool-bar img {
-  height: 40px;
-  margin-left: 10px;
-}
-
-.tool-bar .MuiTypography-root {
-  flex: 1 1;
-  text-align: center;
-}
-
-.tool-bar .MuiButton-root {
-  margin-left: auto;
-}
-
-.app-bar{
-  height: 60px;
-}
-
-
 html,
 body {
   margin: 0;
@@ -122,81 +97,40 @@ header {
   max-width: 1024px;
 }
 
-
-  
-  .dashboard-container {
+.launch-marketplace-cont {
+    margin-top: 20px;
     display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-  }
-  
-  .dashboard-header {
-    background-color: #FF0085;
-    color: white;
-    padding: 20px;
-    text-align: center;
-  }
-  
-  .dashboard-main {
-    flex: 1 1;
-    display: flex;
+    align-content: center;
     justify-content: center;
-    align-items: center;
-    padding: 20px;
-  }
-  
-  .card {
-    background: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    padding: 30px;
-    max-width: 400px;
-    width: 100%;
-    text-align: center;
-  }
-  
-  .card-title {
-    margin-bottom: 20px;
-    font-size: 1.5rem;
-    color: #333;
-  }
-  
-  .file-input {
-    margin-bottom: 20px;
-    display: block;
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-  }
-  
-  .split-button {
-    padding: 10px 20px;
-    font-size: 1rem;
-    color: white;
-    background-color: #FF0085;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-    width: 100%;
-  }
-  
-  .split-button:hover {
-    background-color: #FF0085;
-  }
-  
-  @media (max-width: 768px) {
-    .card-title {
-      font-size: 1.2rem;
+    flex-wrap: wrap;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+@media screen and (max-width: 768px) {
+    .launch-marketplace-cont {
+        flex-wrap: wrap;
     }
-  
-    .split-button {
-      font-size: 0.875rem;
-      padding: 8px 16px;
-    }
+}
+
+.marketplace-img{
+  border-radius: 20px;
+  width: 20vw;
+  max-width: 200px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.marketplace-img:hover{
+  transform: translateY(-10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+@media screen and (max-width: 768px) {
+  .marketplace-img {
+      flex-direction: column;
+      width: 20vw;
   }
-  
+}
 /* Main Container */
 .login-container {
     display: flex;
@@ -342,39 +276,105 @@ iframe {
   }
 }
 
-.launch-marketplace-cont {
-    margin-top: 20px;
+
+  
+  .dashboard-container {
     display: flex;
-    align-content: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-@media screen and (max-width: 768px) {
-    .launch-marketplace-cont {
-        flex-wrap: wrap;
-    }
-}
-
-.marketplace-img{
-  border-radius: 20px;
-  width: 20vw;
-  max-width: 200px;
-  margin: 10px;
-  cursor: pointer;
-}
-
-.marketplace-img:hover{
-  transform: translateY(-10px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-@media screen and (max-width: 768px) {
-  .marketplace-img {
-      flex-direction: column;
-      width: 20vw;
+    flex-direction: column;
+    min-height: 100vh;
   }
+  
+  .dashboard-header {
+    background-color: #FF0085;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .dashboard-main {
+    flex: 1 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .card-title {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .file-input {
+    margin-bottom: 20px;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .split-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #FF0085;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%;
+  }
+  
+  .split-button:hover {
+    background-color: #FF0085;
+  }
+  
+  @media (max-width: 768px) {
+    .card-title {
+      font-size: 1.2rem;
+    }
+  
+    .split-button {
+      font-size: 0.875rem;
+      padding: 8px 16px;
+    }
+  }
+  
+.tool-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-/*# sourceMappingURL=main.604f748e.css.map*/
+.tool-bar img {
+  height: 40px;
+  margin-left: 10px;
+}
+
+.tool-bar .MuiTypography-root {
+  flex: 1 1;
+  text-align: center;
+}
+
+.tool-bar .MuiButton-root {
+  margin-left: auto;
+}
+
+.app-bar{
+  height: 60px;
+}
+
+
+
+/*# sourceMappingURL=main.02864623.css.map*/
