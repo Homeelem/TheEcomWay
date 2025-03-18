@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.c180292b.js",
+    "main.js": "/static/js/main.ea64172e.js",
     "main.css": "/static/css/main.02864623.css",
     "static/js/361.43075797.chunk.js": "/static/js/361.43075797.chunk.js",
     "static/js/359.0af9e738.chunk.js": "/static/js/359.0af9e738.chunk.js",
     "static/js/767.52c85500.chunk.js": "/static/js/767.52c85500.chunk.js",
-    "static/media/amazon-profit-calculator-example.png": "/static/media/amazon-profit-calculator-example.10fe7269e17eb7493bde.png",
+    "static/media/amazon-full-report.png": "/static/media/amazon-full-report.11f5843720d8b568e853.png",
     "static/media/white-logo.png": "/static/media/white-logo.2ca3ea9e0bbedb7ef28c.png",
     "static/media/logo.png": "/static/media/logo.8fcb7512dd243e8f02db.png",
     "static/media/Flipkart-Label-Splitter.png": "/static/media/Flipkart-Label-Splitter.32dccd5529b530fc7b8b.png",
@@ -23,7 +23,7 @@
     "main.02864623.css.map": "/static/css/main.02864623.css.map"
   },
   "entrypoints": [
-    "static/js/main.c180292b.js",
+    "static/js/main.ea64172e.js",
     "static/css/main.02864623.css"
   ]
 }
