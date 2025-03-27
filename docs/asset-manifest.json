@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.b1d7530d.js",
-    "main.css": "/static/css/main.c6668d6f.css",
+    "main.js": "/static/js/main.786f3b4f.js",
+    "main.css": "/static/css/main.bbf1cdf6.css",
     "static/js/361.43075797.chunk.js": "/static/js/361.43075797.chunk.js",
     "static/js/359.0af9e738.chunk.js": "/static/js/359.0af9e738.chunk.js",
     "static/js/767.620406c9.chunk.js": "/static/js/767.620406c9.chunk.js",
     "static/media/amazon-full-report.png": "/static/media/amazon-full-report.11f5843720d8b568e853.png",
-    "static/media/1.png": "/static/media/1.506b6d69482c71931e1c.png",
-    "static/media/2.png": "/static/media/2.59fd02147e1367975022.png",
+    "static/media/1.png": "/static/media/1.3c5750412dae9f8f33fb.png",
+    "static/media/2.png": "/static/media/2.68d80bddbf98f9c9d921.png",
     "static/media/3.png": "/static/media/3.1b7b68db397d31eae39e.png",
     "static/media/4.png": "/static/media/4.f9ebcccfb286e3fefc10.png",
     "static/media/white-logo.png": "/static/media/white-logo.2ca3ea9e0bbedb7ef28c.png",
@@ -24,10 +24,10 @@
     "static/media/payment-qr-49.png": "/static/media/payment-qr-49.b120d2293df4ea47aa9b.png",
     "static/media/multi-label-maker.png": "/static/media/multi-label-maker.ceaa8378d7949f382eac.png",
     "index.html": "/index.html",
-    "main.c6668d6f.css.map": "/static/css/main.c6668d6f.css.map"
+    "main.bbf1cdf6.css.map": "/static/css/main.bbf1cdf6.css.map"
   },
   "entrypoints": [
-    "static/js/main.b1d7530d.js",
-    "static/css/main.c6668d6f.css"
+    "static/js/main.786f3b4f.js",
+    "static/css/main.bbf1cdf6.css"
   ]
 }
