@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.9555a85c.js",
-    "main.css": "/static/css/main.4e203f69.css",
+    "main.js": "/static/js/main.22b6380c.js",
+    "main.css": "/static/css/main.8efd7c0b.css",
     "static/js/361.43075797.chunk.js": "/static/js/361.43075797.chunk.js",
     "static/js/359.0af9e738.chunk.js": "/static/js/359.0af9e738.chunk.js",
     "static/js/767.620406c9.chunk.js": "/static/js/767.620406c9.chunk.js",
@@ -10,6 +10,7 @@
     "static/media/2.png": "/static/media/2.68d80bddbf98f9c9d921.png",
     "static/media/3.png": "/static/media/3.1b7b68db397d31eae39e.png",
     "static/media/4.png": "/static/media/4.f9ebcccfb286e3fefc10.png",
+    "static/media/white-logo.png": "/static/media/white-logo.2ca3ea9e0bbedb7ef28c.png",
     "static/media/logo.png": "/static/media/logo.8fcb7512dd243e8f02db.png",
     "static/media/Flipkart-Label-Splitter.png": "/static/media/Flipkart-Label-Splitter.32dccd5529b530fc7b8b.png",
     "static/media/Meesho-label-sorter.png": "/static/media/Meesho-label-sorter.4184d4173c24bb518f9b.png",
@@ -19,12 +20,14 @@
     "static/media/Meesho-Profit-Calculator.png": "/static/media/Meesho-Profit-Calculator.e61f68e5f03b96d489ad.png",
     "static/media/Meesho-Label-Cropper.png": "/static/media/Meesho-Label-Cropper.409b5e6fdbfd4208c7ea.png",
     "static/media/pdf-merger.png": "/static/media/pdf-merger.ae18f6bc39181458dac4.png",
+    "static/media/payment-qr-99.png": "/static/media/payment-qr-99.b98cad5023a34ee2bec5.png",
+    "static/media/payment-qr-49.png": "/static/media/payment-qr-49.b120d2293df4ea47aa9b.png",
     "static/media/multi-label-maker.png": "/static/media/multi-label-maker.ceaa8378d7949f382eac.png",
     "index.html": "/index.html",
-    "main.4e203f69.css.map": "/static/css/main.4e203f69.css.map"
+    "main.8efd7c0b.css.map": "/static/css/main.8efd7c0b.css.map"
   },
   "entrypoints": [
-    "static/js/main.9555a85c.js",
-    "static/css/main.4e203f69.css"
+    "static/js/main.22b6380c.js",
+    "static/css/main.8efd7c0b.css"
   ]
 }
