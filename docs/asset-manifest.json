@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.331b3d8b.js",
-    "main.css": "/static/css/main.df9c5a3f.css",
+    "main.js": "/static/js/main.478f0779.js",
+    "main.css": "/static/css/main.05b74267.css",
     "static/js/361.43075797.chunk.js": "/static/js/361.43075797.chunk.js",
     "static/js/359.0af9e738.chunk.js": "/static/js/359.0af9e738.chunk.js",
-    "static/js/767.620406c9.chunk.js": "/static/js/767.620406c9.chunk.js",
-    "static/media/2.gif": "/static/media/2.d8b98e48197a3597384d.gif",
-    "static/media/1.gif": "/static/media/1.9e7a00da081c694ba22d.gif",
+    "static/js/767.0df22c4e.chunk.js": "/static/js/767.0df22c4e.chunk.js",
+    "static/media/3.gif": "/static/media/3.4365a5142fb47a66afc3.gif",
+    "static/media/2.gif": "/static/media/2.83e7fafcbc6bec9c855c.gif",
+    "static/media/1.gif": "/static/media/1.ccc8b5a1e9a9d3c1ebca.gif",
     "static/media/amazon-full-report.png": "/static/media/amazon-full-report.11f5843720d8b568e853.png",
     "static/media/background-cart-2.png": "/static/media/background-cart-2.6c8b6e3c2119ae9cbdbe.png",
     "static/media/1.png": "/static/media/1.3c5750412dae9f8f33fb.png",
@@ -22,11 +23,14 @@
     "static/media/Meesho-Label-Cropper.png": "/static/media/Meesho-Label-Cropper.409b5e6fdbfd4208c7ea.png",
     "static/media/pdf-merger.png": "/static/media/pdf-merger.ae18f6bc39181458dac4.png",
     "static/media/multi-label-maker.png": "/static/media/multi-label-maker.ceaa8378d7949f382eac.png",
+    "static/media/dhara.png": "/static/media/dhara.e5a537387deefbdacf2b.png",
+    "static/media/home-elem.png": "/static/media/home-elem.f6e32b00049ca3a0e766.png",
+    "static/media/yumun.png": "/static/media/yumun.cef0c0d5dda278ed7868.png",
     "index.html": "/index.html",
-    "main.df9c5a3f.css.map": "/static/css/main.df9c5a3f.css.map"
+    "main.05b74267.css.map": "/static/css/main.05b74267.css.map"
   },
   "entrypoints": [
-    "static/js/main.331b3d8b.js",
-    "static/css/main.df9c5a3f.css"
+    "static/js/main.478f0779.js",
+    "static/css/main.05b74267.css"
   ]
 }
