@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.521af5af.js",
+    "main.js": "/static/js/main.0e953af3.js",
     "main.css": "/static/css/main.05b74267.css",
     "static/js/361.43075797.chunk.js": "/static/js/361.43075797.chunk.js",
     "static/js/359.0af9e738.chunk.js": "/static/js/359.0af9e738.chunk.js",
@@ -17,6 +17,7 @@
     "static/media/logo.png": "/static/media/logo.8fcb7512dd243e8f02db.png",
     "static/media/Flipkart-Label-Splitter.png": "/static/media/Flipkart-Label-Splitter.32dccd5529b530fc7b8b.png",
     "static/media/Meesho-label-sorter.png": "/static/media/Meesho-label-sorter.4184d4173c24bb518f9b.png",
+    "static/media/Flipkart-profit-calculator.jpg": "/static/media/Flipkart-profit-calculator.3fa688ee2a072c0ebf5d.jpg",
     "static/media/Amazon-Label-Maker.png": "/static/media/Amazon-Label-Maker.6b4a5807fdd09774c799.png",
     "static/media/Amazon-profit-calculator.png": "/static/media/Amazon-profit-calculator.e79f718c1e3945c38e67.png",
     "static/media/Meesho-Profit-Calculator.png": "/static/media/Meesho-Profit-Calculator.e61f68e5f03b96d489ad.png",
@@ -30,7 +31,7 @@
     "main.05b74267.css.map": "/static/css/main.05b74267.css.map"
   },
   "entrypoints": [
-    "static/js/main.521af5af.js",
+    "static/js/main.0e953af3.js",
     "static/css/main.05b74267.css"
   ]
 }
