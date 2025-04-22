@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.0e953af3.js",
+    "main.js": "/static/js/main.a2c8b801.js",
     "main.css": "/static/css/main.05b74267.css",
     "static/js/361.43075797.chunk.js": "/static/js/361.43075797.chunk.js",
     "static/js/359.0af9e738.chunk.js": "/static/js/359.0af9e738.chunk.js",
@@ -22,6 +22,7 @@
     "static/media/Amazon-profit-calculator.png": "/static/media/Amazon-profit-calculator.e79f718c1e3945c38e67.png",
     "static/media/Meesho-Profit-Calculator.png": "/static/media/Meesho-Profit-Calculator.e61f68e5f03b96d489ad.png",
     "static/media/Meesho-Label-Cropper.png": "/static/media/Meesho-Label-Cropper.409b5e6fdbfd4208c7ea.png",
+    "static/media/Flipkart-Empty-Box-Claim.jpg": "/static/media/Flipkart-Empty-Box-Claim.009016182aa580543cf2.jpg",
     "static/media/pdf-merger.png": "/static/media/pdf-merger.ae18f6bc39181458dac4.png",
     "static/media/multi-label-maker.png": "/static/media/multi-label-maker.ceaa8378d7949f382eac.png",
     "static/media/dhara.png": "/static/media/dhara.e5a537387deefbdacf2b.png",
@@ -31,7 +32,7 @@
     "main.05b74267.css.map": "/static/css/main.05b74267.css.map"
   },
   "entrypoints": [
-    "static/js/main.0e953af3.js",
+    "static/js/main.a2c8b801.js",
     "static/css/main.05b74267.css"
   ]
 }
