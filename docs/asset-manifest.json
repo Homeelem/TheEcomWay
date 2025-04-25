@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.8d15f8fb.js",
+    "main.js": "/static/js/main.a9d6d0a7.js",
     "main.css": "/static/css/main.05b74267.css",
     "static/js/361.43075797.chunk.js": "/static/js/361.43075797.chunk.js",
     "static/js/359.0af9e738.chunk.js": "/static/js/359.0af9e738.chunk.js",
@@ -27,14 +27,16 @@
     "static/media/pdf-merger.png": "/static/media/pdf-merger.ae18f6bc39181458dac4.png",
     "static/media/multi-label-maker.png": "/static/media/multi-label-maker.ceaa8378d7949f382eac.png",
     "static/media/dhara.png": "/static/media/dhara.e5a537387deefbdacf2b.png",
+    "static/media/plum-natural.png": "/static/media/plum-natural.89a8b76169c4273fa021.png",
     "static/media/padmasreee.png": "/static/media/padmasreee.1fd6b9dcb140bee5d63b.png",
     "static/media/home-elem.png": "/static/media/home-elem.f6e32b00049ca3a0e766.png",
+    "static/media/urban-leather.png": "/static/media/urban-leather.170cc055a327d67e7456.png",
     "static/media/yumun.png": "/static/media/yumun.cef0c0d5dda278ed7868.png",
     "index.html": "/index.html",
     "main.05b74267.css.map": "/static/css/main.05b74267.css.map"
   },
   "entrypoints": [
-    "static/js/main.8d15f8fb.js",
+    "static/js/main.a9d6d0a7.js",
     "static/css/main.05b74267.css"
   ]
 }
