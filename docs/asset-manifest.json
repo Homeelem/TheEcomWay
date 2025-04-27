@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.d0408c9d.js",
+    "main.js": "/static/js/main.7edd8a72.js",
     "main.css": "/static/css/main.05b74267.css",
-    "static/js/361.43075797.chunk.js": "/static/js/361.43075797.chunk.js",
-    "static/js/359.0af9e738.chunk.js": "/static/js/359.0af9e738.chunk.js",
-    "static/js/767.0df22c4e.chunk.js": "/static/js/767.0df22c4e.chunk.js",
+    "static/js/361.9f9a59d7.chunk.js": "/static/js/361.9f9a59d7.chunk.js",
+    "static/js/359.909b6b56.chunk.js": "/static/js/359.909b6b56.chunk.js",
+    "static/js/767.107dc5a8.chunk.js": "/static/js/767.107dc5a8.chunk.js",
     "static/media/3.gif": "/static/media/3.4365a5142fb47a66afc3.gif",
     "static/media/2.gif": "/static/media/2.83e7fafcbc6bec9c855c.gif",
     "static/media/1.gif": "/static/media/1.ccc8b5a1e9a9d3c1ebca.gif",
@@ -23,6 +23,7 @@
     "static/media/Meesho-Profit-Calculator.png": "/static/media/Meesho-Profit-Calculator.e61f68e5f03b96d489ad.png",
     "static/media/sharda-metals.png": "/static/media/sharda-metals.58089198e031819e7701.png",
     "static/media/Meesho-Label-Cropper.png": "/static/media/Meesho-Label-Cropper.409b5e6fdbfd4208c7ea.png",
+    "static/media/FBA-label-maker.jpg": "/static/media/FBA-label-maker.fbe683a4f27debe92409.jpg",
     "static/media/Flipkart-Empty-Box-Claim.jpg": "/static/media/Flipkart-Empty-Box-Claim.009016182aa580543cf2.jpg",
     "static/media/pdf-merger.png": "/static/media/pdf-merger.ae18f6bc39181458dac4.png",
     "static/media/multi-label-maker.png": "/static/media/multi-label-maker.ceaa8378d7949f382eac.png",
@@ -38,7 +39,7 @@
     "main.05b74267.css.map": "/static/css/main.05b74267.css.map"
   },
   "entrypoints": [
-    "static/js/main.d0408c9d.js",
+    "static/js/main.7edd8a72.js",
     "static/css/main.05b74267.css"
   ]
 }
