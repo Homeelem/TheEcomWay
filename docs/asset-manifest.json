@@ -1,13 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.ee850d9d.js",
+    "main.js": "/static/js/main.d845d667.js",
     "main.css": "/static/css/main.8e19d0c9.css",
-    "static/js/361.ab01cb9f.chunk.js": "/static/js/361.ab01cb9f.chunk.js",
-    "static/js/359.0af9e738.chunk.js": "/static/js/359.0af9e738.chunk.js",
-    "static/js/767.2c16e4b9.chunk.js": "/static/js/767.2c16e4b9.chunk.js",
+    "static/js/361.9f9a59d7.chunk.js": "/static/js/361.9f9a59d7.chunk.js",
+    "static/js/359.909b6b56.chunk.js": "/static/js/359.909b6b56.chunk.js",
+    "static/js/767.29a9abb3.chunk.js": "/static/js/767.29a9abb3.chunk.js",
     "static/media/3.gif": "/static/media/3.4365a5142fb47a66afc3.gif",
     "static/media/2.gif": "/static/media/2.83e7fafcbc6bec9c855c.gif",
+    "static/media/orders.csv": "/static/media/orders.85af1b5c5d3dcd6ba849.csv",
     "static/media/background-cart-2.png": "/static/media/background-cart-2.6c8b6e3c2119ae9cbdbe.png",
+    "static/media/payments2.xlsx": "/static/media/payments2.1b49b00e3aee1040aa7d.xlsx",
+    "static/media/payments1.xlsx": "/static/media/payments1.87a9a22b1ccc469e7ffd.xlsx",
     "static/media/1.gif": "/static/media/1.17406606570279b1996d.gif",
     "static/media/maker.png": "/static/media/maker.8c2099c74e46bf6b8eb7.png",
     "static/media/product-sort.png": "/static/media/product-sort.72169979eaf3bb9d2317.png",
@@ -44,7 +47,7 @@
     "main.8e19d0c9.css.map": "/static/css/main.8e19d0c9.css.map"
   },
   "entrypoints": [
-    "static/js/main.ee850d9d.js",
+    "static/js/main.d845d667.js",
     "static/css/main.8e19d0c9.css"
   ]
 }
