@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/static/js/main.eda58fe0.js",
-    "main.css": "/static/css/main.8e19d0c9.css",
+    "main.js": "/static/js/main.833d7fa1.js",
+    "main.css": "/static/css/main.8351c4e0.css",
     "static/js/361.9f9a59d7.chunk.js": "/static/js/361.9f9a59d7.chunk.js",
     "static/js/359.909b6b56.chunk.js": "/static/js/359.909b6b56.chunk.js",
     "static/js/767.29a9abb3.chunk.js": "/static/js/767.29a9abb3.chunk.js",
+    "static/media/Flipkart Sample Report.pdf": "/static/media/Flipkart Sample Report.8e3ea2126e6f00634f61.pdf",
     "static/media/3.gif": "/static/media/3.4365a5142fb47a66afc3.gif",
     "static/media/2.gif": "/static/media/2.83e7fafcbc6bec9c855c.gif",
     "static/media/orders.csv": "/static/media/orders.85af1b5c5d3dcd6ba849.csv",
@@ -44,10 +45,10 @@
     "static/media/urban-leather.png": "/static/media/urban-leather.170cc055a327d67e7456.png",
     "static/media/yumun.png": "/static/media/yumun.cef0c0d5dda278ed7868.png",
     "index.html": "/index.html",
-    "main.8e19d0c9.css.map": "/static/css/main.8e19d0c9.css.map"
+    "main.8351c4e0.css.map": "/static/css/main.8351c4e0.css.map"
   },
   "entrypoints": [
-    "static/js/main.eda58fe0.js",
-    "static/css/main.8e19d0c9.css"
+    "static/js/main.833d7fa1.js",
+    "static/css/main.8351c4e0.css"
   ]
 }
